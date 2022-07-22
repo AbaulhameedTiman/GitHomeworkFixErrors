@@ -10,7 +10,7 @@ What is 2 + 2?
 
 What is the opposite of Black?
 
-Purple
+
 
 ## Question 3
 
@@ -22,7 +22,7 @@ What is the  2 * 3 * 6 * 1 * 10 * 34?
 
 What does HTML stand for?
 
-Hyper Tall Massive Language
+Hyper Text mark up  Language
 
 ## Question 5
 
